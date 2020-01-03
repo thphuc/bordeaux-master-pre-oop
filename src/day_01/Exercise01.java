@@ -9,7 +9,7 @@ package day_01;
 * @author phuctran
 *
 */
-public class Excercise01 {
+public class Exercise01 {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 		System.out.println("Tran Huy Phuc, Vietnamese");
