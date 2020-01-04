@@ -3,7 +3,7 @@ package day_01;
 import java.util.Scanner;
 
 /*
- * Take width and height of a rectangle and print the area and perimeter. 
+ * 3. Take width and height of a rectangle and print the area and perimeter. 
  * Test:
  * Width = 5 Height = 8
  * Expected Output
