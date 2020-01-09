@@ -71,6 +71,7 @@ public class Day03 {
          * duplicate subarray between these arrays.
          */
         System.out.println("----------- START EXERCISE 6 ---------");
+        System.out.println("Find the longest duplicate subarray between 2 arrays!");
         System.out.println("----------- END EXERCISE 6 ---------\n\n");
 
         /*
@@ -105,7 +106,7 @@ public class Day03 {
          * array which are not in the second array.
          */
         System.out.println("----------- START EXERCISE 9 ---------");
-        int[] ex9Arr1 = new int[]{1, 2, 4, 14, 9, 11, 24};
+        int[] ex9Arr1 = new int[]{1, 2, 4, 14, 9, 11, 24, 55};
         int[] ex9Arr2 = new int[]{14, 8, 9, 12, 14, 18, 20};
         System.out.println("First array:");
         printArray(ex9Arr1);
